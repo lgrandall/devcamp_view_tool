@@ -1,0 +1,3 @@
+module RandallViewTool
+  # Your code goes here...
+end
