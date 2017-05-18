@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install randall_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+RandallViewTool::Renderer.copyright 'Louis Randall', 'All rights reserved'
+```
 
 ## Development
 
